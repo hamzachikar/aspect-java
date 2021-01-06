@@ -10,7 +10,7 @@ public class Main {
 		Client client=new Client();
 		client.setCp(compte);
 		client.setNom("hamza");
-		client.retirer(100.0);
+		client.retirer(100000.0);
 		client.verser(1000.0);
 	}
 	
